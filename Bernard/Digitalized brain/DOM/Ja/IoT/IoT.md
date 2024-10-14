@@ -1,0 +1,1 @@
+[[Bernard/Digitalized brain/DOM/Ja/IoT/Pomysły/Pomysły|Pomysły]]

@@ -1,0 +1,3 @@
+  
+
+Rozpietosc tonalna

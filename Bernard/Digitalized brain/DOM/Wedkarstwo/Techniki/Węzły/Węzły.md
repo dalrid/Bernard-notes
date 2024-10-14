@@ -1,0 +1,3 @@
+[[Albrigt - strzałowy smukły]]
+
+[[Najmocniejszy]]

@@ -1,0 +1,3 @@
+- jira - produkt CICD
+- zmiany technologiczne CP/TR - zmiany architektury
+- KNF komunikat chmurowy

@@ -1,1 +1,1 @@
-# Bernard-notes
+# obsidian

@@ -1,0 +1,1 @@
+[https://wiki.asseco.pl/pages/viewpage.action?pageId=38537024](https://wiki.asseco.pl/pages/viewpage.action?pageId=38537024)

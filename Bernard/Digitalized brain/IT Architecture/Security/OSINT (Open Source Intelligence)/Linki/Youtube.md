@@ -1,0 +1,1 @@
+[https://www.youtube.com/watch?v=UeAKTjx_eKA](https://www.youtube.com/watch?v=UeAKTjx_eKA) Rozwiązanie z rastberry PI

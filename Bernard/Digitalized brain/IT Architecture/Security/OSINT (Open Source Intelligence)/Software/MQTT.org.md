@@ -1,0 +1,1 @@
+machine-to-machine connectivity protocol

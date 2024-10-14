@@ -1,0 +1,1 @@
+[https://www.oracle.com/pl/artificial-intelligence/what-is-natural-language-processing/](https://www.oracle.com/pl/artificial-intelligence/what-is-natural-language-processing/)

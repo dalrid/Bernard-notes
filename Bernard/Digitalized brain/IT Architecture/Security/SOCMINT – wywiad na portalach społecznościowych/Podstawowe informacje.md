@@ -1,0 +1,1 @@
+# [https://sekurak.pl/socmint-czyli-osint-mediow-spolecznosciowych/](https://sekurak.pl/socmint-czyli-osint-mediow-spolecznosciowych/)

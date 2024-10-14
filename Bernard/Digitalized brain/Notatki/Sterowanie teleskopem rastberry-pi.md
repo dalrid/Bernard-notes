@@ -1,0 +1,1 @@
+[http://wsinf.edu.pl/assets/img/pdf/Zeszyty naukowe/vol.15/art02.pdf](http://wsinf.edu.pl/assets/img/pdf/Zeszyty%20naukowe/vol.15/art02.pdf)
