@@ -1,0 +1,1 @@
+kubectl create secret docker-registry ocirbksecret --docker-server=fra.ocir.io --docker-username='frkvgr6rogi5/bernard.kawalec@asseco.pl' --docker-password='tzw(iu)1-wcaBb-fGyHJ' --docker-email='bernard.kawalec@asseco.pl'
