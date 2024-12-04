@@ -1,1 +1,0 @@
-[[Bernard/Digitalized brain/DOM/Wedkarstwo/Techniki/Spławik/youtube]]
