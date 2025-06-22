@@ -1,3 +1,0 @@
-qabbo - ramenowa
-
-Fazir kebab

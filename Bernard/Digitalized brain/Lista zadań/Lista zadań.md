@@ -26,7 +26,7 @@ Click an existing task to add additional context or subtasks.
 |[[Level Security CTF]]|October 18, 2022 10:24 AM||To Do|
 |[[Dystrybucja 27.09.2022 instagram - Rzeka]]|September 27, 2022 9:42 AM||Done 🙌|
 |[[Dystrybucja - Instagram post-facebook - grupy-tiktok]]|September 28, 2022 10:18 AM||Done 🙌|
-|[[Untitled]]|August 12, 2022 11:42 AM|||
+|[[Prompt]]|August 12, 2022 11:42 AM|||
 |[[Social Media - ideas]]|August 31, 2022 9:08 AM|||
 |[[privacy by design]]|December 19, 2022 9:47 AM||To Do|
 |[[Bernard/Digitalized brain/Lista zadań/AI]]|February 15, 2023 12:58 PM|||
